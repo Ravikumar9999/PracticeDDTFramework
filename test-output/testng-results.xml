@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-23T21:43:44 IST" name="Default suite" finished-at="2023-04-23T21:44:34 IST" duration-ms="49934">
+    <groups>
+    </groups>
+    <test started-at="2023-04-23T21:43:44 IST" name="Default test" finished-at="2023-04-23T21:44:34 IST" duration-ms="49934">
+      <class name="com.ddt.tests.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ddt.tests.LoginPageTest@5c33f1a9]" started-at="2023-04-23T21:43:44 IST" name="setUp" finished-at="2023-04-23T21:43:57 IST" duration-ms="12880" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginPageTitleTest()[pri:1, instance:com.ddt.tests.LoginPageTest@5c33f1a9]" started-at="2023-04-23T21:43:57 IST" name="loginPageTitleTest" finished-at="2023-04-23T21:43:57 IST" duration-ms="58" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ddt.tests.LoginPageTest@5c33f1a9]" started-at="2023-04-23T21:43:57 IST" name="tearDown" finished-at="2023-04-23T21:43:57 IST" duration-ms="312" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ddt.tests.LoginPageTest@5c33f1a9]" started-at="2023-04-23T21:43:57 IST" name="setUp" finished-at="2023-04-23T21:44:09 IST" duration-ms="11685" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="freeCRMLogoImageTest()[pri:2, instance:com.ddt.tests.LoginPageTest@5c33f1a9]" started-at="2023-04-23T21:44:09 IST" name="freeCRMLogoImageTest" finished-at="2023-04-23T21:44:09 IST" duration-ms="199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- freeCRMLogoImageTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ddt.tests.LoginPageTest@5c33f1a9]" started-at="2023-04-23T21:44:09 IST" name="tearDown" finished-at="2023-04-23T21:44:09 IST" duration-ms="304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ddt.tests.LoginPageTest@5c33f1a9]" started-at="2023-04-23T21:44:09 IST" name="setUp" finished-at="2023-04-23T21:44:21 IST" duration-ms="11420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest()[pri:3, instance:com.ddt.tests.LoginPageTest@5c33f1a9]" started-at="2023-04-23T21:44:21 IST" name="loginTest" finished-at="2023-04-23T21:44:33 IST" duration-ms="12708" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ddt.tests.LoginPageTest@5c33f1a9]" started-at="2023-04-23T21:44:33 IST" name="tearDown" finished-at="2023-04-23T21:44:34 IST" duration-ms="248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ddt.tests.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
